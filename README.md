@@ -1,6 +1,6 @@
 # PROJECT - Company Finances
 
-[Power BI Visualization](https://app.powerbi.com/Redirect?action=OpenReport&appId=eeaeff4c-a31f-428b-b715-94f43b4b6255&reportObjectId=f182c83b-cd96-4a76-91ab-a67004188886&ctid=d05bc23a-4bdc-426f-b7f9-fede45cfbd56&reportPage=89cab110b6d868201da1&pbi_source=appShareLink&portalSessionId=924aa473-1ee2-4b98-bdaa-3b3f11e3611f)
+# [Power BI Visualization](https://app.powerbi.com/Redirect?action=OpenReport&appId=eeaeff4c-a31f-428b-b715-94f43b4b6255&reportObjectId=f182c83b-cd96-4a76-91ab-a67004188886&ctid=d05bc23a-4bdc-426f-b7f9-fede45cfbd56&reportPage=89cab110b6d868201da1&pbi_source=appShareLink&portalSessionId=924aa473-1ee2-4b98-bdaa-3b3f11e3611f)
 
 In this project we are working for a fabricated client who is asking us to answer the question; "Which projects and departments are at risk of being over budget or underperforming? Note that department budgets are set at 2-year intervals. We want to know if a year can cover all expenses" and do 3 separate tasks. 
 
